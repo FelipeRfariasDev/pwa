@@ -1,0 +1,23 @@
+{
+    "name": "Arremate",
+    "short_name": "Arremate - Leilão de Imóveis",
+    "app_name": "Arremate",
+    "scope": "index.html",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
